@@ -1,12 +1,11 @@
 ---
-description: This website helps you configuring and creating custom items for my plugin
+description: Trang này giúp bạn hiểu rõ hơn về việc chỉnh sửa và tạo vật phẩm bẳng plugin của tôi
 ---
 
-# 👋 Welcome
+# 👋 Chào mừng
 
-Some of this website pages may contain affiliate links, meaning I get a commission if you decide to make a purchase (at no cost to you).
-
-### 💠Quick Links
+Một số trang của trang web này có thể chứa các liên kết chi nhánh, nghĩa là tôi nhận sẽ được hoa hồng nếu bạn quyết định mua hàng (bạn sẽ không mất phí).
+### 💠Một số link nhanh:
 
 {% content-ref url="other/tos.md" %}
 [tos.md](other/tos.md)
@@ -20,7 +19,7 @@ Some of this website pages may contain affiliate links, meaning I get a commissi
 [adding-content](plugin-usage/adding-content/)
 {% endcontent-ref %}
 
-### 🌐Social Media
+### 🌐Mạng xã hội:
 
 * [Patreon](http://patreon.com/lonedev)
 * [Ko-fi](http://a.devs.beer/kofi)
@@ -30,18 +29,18 @@ Some of this website pages may contain affiliate links, meaning I get a commissi
 * [Steam Developer Page](https://store.steampowered.com/developer/LoneDev/)
 * [Discord](https://discord.gg/4dfnpUK)
 
-## Purchase
+## Mua sản phẩm:
 
 {% hint style="warning" %}
-Buy the plugin only from official shops, if you bought it elsewhere you was scammed, ask for a refund.
+Chỉ mua plugin từ các cửa hàng chính thức, nếu bạn mua nó ở nơi khác, bạn sẽ bị lừa, trong trường hợp đó hãy yêu cầu hoàn lại tiền.
 {% endhint %}
 
-### With PayPal
+### Mua bằng PayPal:
 
 * [SpigotMC](https://www.spigotmc.org/resources/%E2%9C%A8itemsadder%E2%AD%90emotes-mobs-items-armors-hud-gui-emojis-blocks-wings-hats-liquids.73355/)
 * [Polymart](https://polymart.org/resource/itemsadder-custom-items-etc.1851)
 * [Builtbybit (Mc-market)](https://builtbybit.com/resources/itemsadder-emotes-mobs-items-armors-hud-gui-emojis-blocks-wings-hats-liquids.10839/)
 
-### Without PayPal
+### Mua không dùng PayPal:
 
 * [Polymart](https://polymart.org/resource/itemsadder-custom-items-etc.1851)
