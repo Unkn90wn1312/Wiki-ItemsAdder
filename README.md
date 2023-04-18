@@ -1,5 +1,5 @@
 ---
-description: Trang này giúp bạn hiểu rõ hơn về việc chỉnh sửa và tạo vật phẩm bẳng plugin của tôi
+description: Trang này giúp bạn hiểu rõ hơn về việc chỉnh sửa và tạo vật phẩm bẳng plugin của tôi (Translated by Unkn90wn1312; Dịch bởi Unkn90wn1312)
 ---
 
 # 👋 Chào mừng
